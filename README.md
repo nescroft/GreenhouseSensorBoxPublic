@@ -21,6 +21,8 @@ VNH3ASP30 Dual Motor Driver Arduino Shield (if you have greenhouse window motors
 
 Main Scripts:
 
+Google Sheets: appscript.gs
+
 NodeMCU: ard_mcu_sensor_lcd_google_sheets.ino
 
 Arduino Uno: joy_motor.ino
